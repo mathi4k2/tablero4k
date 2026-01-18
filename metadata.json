@@ -1,0 +1,7 @@
+{
+  "name": "LiveSync Scoreboard AI",
+  "description": "A high-performance real-time sports scoreboard with remote control via QR code and AI-powered match commentary.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
